@@ -1,0 +1,1 @@
+print(f"Hello") The most expensive laptop ammount is: 4295.54. The least expensive laptop ammount is 1849.79. The rounded price of thr MSI RTX 5000 is 4199. The rounded price of the Gigabyte Aero is 4296. The rounded price of the Razer Blade 15 is 3697. The rounded price of the Asus Zephyrus The average price of all the computers is: 3510.42 
